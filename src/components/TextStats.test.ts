@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { getTextStats } from "./TextStats";
+import { getTextStats } from "./textStats";
 
 describe("getTextStats", () => {
   it("counts words and characters correctly", () => {

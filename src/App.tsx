@@ -1,5 +1,7 @@
 import React from "react";
-import TextStats, { getTextStats } from "./components/TextStats";
+import TextStats from "./components/TextStats";
+import { getTextStats } from "./components/textStats";
+
 
 const DEFAULT_TEXT =
   "Paste or type here...\n\nThis app counts words, characters, and lines.";
