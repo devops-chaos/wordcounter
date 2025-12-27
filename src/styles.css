@@ -1,0 +1,13 @@
+body {
+  background: #f6f7fb;
+}
+textarea.form-control {
+  min-height: 220px;
+  resize: vertical;
+}
+.stat-card {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+.small-muted {
+  color: rgba(0, 0, 0, 0.6);
+}
